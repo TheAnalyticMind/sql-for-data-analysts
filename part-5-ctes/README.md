@@ -1,6 +1,6 @@
 # SQL for Data Analysts — Part 5: CTEs
 
-**Article:** [SQL for Data Analysts (Part 5): CTEs — Write SQL Like a Human](https://medium.com/@TheAnalyticMind)
+**Article:** [SQL for Data Analysts (Part 5): CTEs — Write SQL Like a Human]([https://medium.com/@TheAnalyticMind](https://soumyatripathy2101.medium.com/sql-for-data-analysts-part-5-ctes-write-sql-like-a-human-a492e258f0a6))
 
 Subqueries work. CTEs communicate. This folder has everything you need to practice Common Table Expressions — from the basics to chained CTEs and recursive org charts.
 
